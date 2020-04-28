@@ -1,0 +1,11 @@
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\bin\Debug\Timestamper.exe.config
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\bin\Debug\Timestamper.exe
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\bin\Debug\Timestamper.pdb
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.csprojAssemblyReference.cache
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.Properties.Resources.resources
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.Timestamp.resources
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.csproj.GenerateResource.cache
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.csproj.CoreCompileInputs.cache
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.exe
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.pdb
+C:\Users\sethv\Desktop\TableTopApps\AdventureFox\Timestamper\Timestamper\obj\Debug\Timestamper.Clock.resources
